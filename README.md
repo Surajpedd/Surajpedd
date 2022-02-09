@@ -2,7 +2,7 @@
 ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surajpedd&count_private=true&show_icons=true&theme=yeblu&hide=prs,issues)
 
 🎓 Hi I am Suraj Peddhibhotla , a 3rd Year Computer Science Engineer at Vellore Institute of Technology
-- 🚀 I’m currently working on an [Operating System Simulator](https://github.com/prith27/OS_Sim)
+- 🚀 I’m currently working on an Mental Health Based ChatBot
 - 🌱 I’m exploring domains such as Web Development, Competitive Programming and Machine Learning to further my skills
 - ⚡ I enjoy reading Books 📖 , playing Sports 🏀 and Coding 👨‍💻
 - 🔭 Languages...<br><br>
