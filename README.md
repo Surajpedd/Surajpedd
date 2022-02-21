@@ -14,13 +14,13 @@
 ### Let's Connect
 
 <a href="mailto:surajpedd@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/surajpedd/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"></a>
+<a href="https://www.linkedin.com/in/surajpedd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
 ### 👨‍💻 My Profiles :-
 
-<a href ="https://www.hackerrank.com/Suraj_19BCE1044"><img src = "https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"></a>&nbsp;
-<a href="https://www.codechef.com/users/suraj_pedd"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"></a>&nbsp;
-<a href="https://leetcode.com/im_Groot"><img src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="25" width="40"></a>&nbsp;
+<a href ="https://www.codechef.com/users/suraj_pedd"><img src = "https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"></a>&nbsp;
+<a href="https://www.hackerrank.com/Suraj_19BCE1044"><img src = "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>&nbsp;
+<a href="https://leetcode.com/im_Groot"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a>&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/surajpedd"><img src = "https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"></a>
 ->
