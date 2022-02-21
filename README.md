@@ -8,6 +8,10 @@
 - 🔭 Languages...<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajpedd&layout=compact)
 <br><br>
-- 📫 How to reach me :-
-  -  Mail me at : surajpedd@gmail.com 
-  -  Linkedin Profile : [![Linkedin](https://github.com/Surajpedd/Surajpedd/blob/main/Linkedin.png)](https://www.linkedin.com/in/surajpedd/)
+- 📫 How to reach me :- &nbsp;&nbsp;
+<a href="mailto:surajpedd@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/surajpedd/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+- 👨‍💻 Coding Profiles :-
+  - [HackerRank](https://www.hackerrank.com/Suraj_19BCE1044)
+  - [Codechef](https://www.codechef.com/users/suraj_pedd)
+  - [GeeksForGeeks](https://auth.geeksforgeeks.org/user/surajpedd)
