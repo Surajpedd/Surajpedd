@@ -11,10 +11,10 @@
 - 🔭 Languages...<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajpedd&layout=compact)
 
-### Let's Connect
+### 📬 Let's Connect
 
-<a href="mailto:surajpedd@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/surajpedd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:surajpedd@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width = "100px"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/surajpedd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width = "130px"/></a>
 
 <!--
 ### 👨‍💻 My Profiles :-
