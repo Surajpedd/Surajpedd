@@ -2,11 +2,10 @@
 
    ![Suraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surajpedd&count_private=true&show_icons=true&theme=yeblu&hide=prs,issues)
 
-🎓 Hi I am Suraj Peddhibhotla , a Final Year Computer Science Engineer at Vellore Institute of Technology
+🎓 Hi I am Suraj Peddhibhotla , a Devops Engineer at Pocketpills
 
-- 💼 Upcoming Software Engineer at [Pocket Pills](https://www.pocketpills.com), Gurugram
-- 🚀 I’m currently working on an Mental Health Based ChatBot
-- 🌱 I’m exploring domains such as Web Development, Competitive Programming and Machine Learning to further my skills
+- 💼 Software Engineer at [Pocket Pills](https://www.pocketpills.com), Gurugram
+- 🌱 I’m exploring domains such as Infrastructure as Code, Cloud Computing and Java to further my skills
 - ⚡ I enjoy reading Books 📖 , playing Sports 🏀 and Coding 👨‍💻
 - 🔭 Languages...<br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Surajpedd&layout=compact)
